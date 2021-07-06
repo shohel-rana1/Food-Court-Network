@@ -130,6 +130,10 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
+#h1-tag{
+    margin-top: 2%;
+    
+}
 /* recipe section css below  */
 .recipe{
     text-align: center;
@@ -137,7 +141,7 @@ p{
     margin-left: 5%;
     margin-bottom: 5%;
     margin-top: 5%;
-    background-color: rgb(231, 231, 231);
+   
 }
 
 .recipe-item{
